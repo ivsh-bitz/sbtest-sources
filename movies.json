@@ -1,6 +1,7 @@
 {
   "10378": {
     "title": "Big Buck Bunny",
-    "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+    "type": "embed",
+    "url": "https://www.youtube.com/embed/aqz-KE-bpKQ"
   }
 }
