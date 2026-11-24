@@ -1,1 +1,76 @@
-[123]
+[
+  {
+    "id": "vidrock",
+    "name": "Vidrock",
+    "urls": {
+      "movie": "https://vidrock.net/movie/${id}",
+      "tv": "https://vidrock.net/tv/${id}/${season}/${episode}"
+    },
+    "allowedDomain": "https://vidrock.net"
+  },
+  {
+    "id": "videasy",
+    "name": "Netprime",
+    "urls": {
+      "movie": "https://videasy.xyz/embed/movie/${id}",
+      "tv": "https://videasy.xyz/embed/tv/${id}/${season}/${episode}"
+    },
+    "allowedDomain": "https://videasy.xyz"
+  },
+
+  {
+    "id": "vidsrcsh",
+    "name": "Vidsrc",
+    "urls": {
+      "movie": "https://vidsrc.sh/embed/movie/${id}",
+      "tv": "https://vidsrc.sh/embed/tv/${id}/${season}/${episode}"
+    },
+    "allowedDomain": "https://vidsrc.sh"
+  },
+
+  {
+    "id": "vsembed.ru",
+    "name": "VidSrc 2",
+    "urls": {
+      "movie": "https://vsembed.ru/embed/movie?tmdb=${id}",
+      "tv": "https://vidsrc.cc/embed/tv?tmdb=${id}&s=${season}&e=${episode}"
+    },
+    "allowedDomain": "https://vidsrc.ru"
+  },
+  {
+    "id": "vidsrccc2",
+    "name": "VidSrc 3",
+    "urls": {
+      "movie": "https://vidsrc.cc/v2/embed/movie/${id}",
+      "tv": "https://vidsrc.cc/v2/embed/tv/${id}/${season}/${episode}"
+    },
+    "allowedDomain": "https://vidsrc.cc"
+  },
+  {
+    "id": "vidsrcvip2",
+    "name": "VidSrc Vip",
+    "urls": {
+      "movie": "https://vsembed.su/embed/movie/${id}",
+      "tv": "https://vidsrc.vip/embed/tv/${id}/${season}/${episode}"
+    },
+    "allowedDomain": "https://vsembed.su"
+  },
+  {
+    "id": "multiembed",
+    "name": "MultiEmbed",
+    "urls": {
+      "movie": "https://multiembed.mov/?video_id=${id}&tmdb=1",
+      "tv": "https://multiembed.mov/?video_id=${id}&tmdb=1&s=${season}&e=${episode}"
+    },
+    "allowedDomain": "https://streamingnow.mov/"
+  },
+  {
+    "id": "vidsrcTo",
+    "name": "VidSrc 4",
+    "urls": {
+      "movie": "https://vidsrc.to/embed/movie/${id}",
+      "tv": "https://vidsrc.to/embed/tv/${id}/${season}/${episode}"
+    },
+    "allowedDomain": "https://vidsrc.su"
+  }
+]
