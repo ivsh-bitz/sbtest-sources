@@ -5,7 +5,19 @@
       {
         "name": "Server 1",
         "type": "direct",
-        "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+        "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+        "subtitles": [
+          {
+            "label": "English",
+            "language": "en",
+            "url": "HTTPS_WEBVTT_URL"
+          },
+          {
+            "label": "Filipino",
+            "language": "fil",
+            "url": "HTTPS_WEBVTT_URL"
+          }
+        ]
       },
       {
         "name": "YouTube",
