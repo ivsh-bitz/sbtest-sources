@@ -1,7 +1,17 @@
 {
   "10378": {
     "title": "Big Buck Bunny",
-    "type": "embed",
-    "url": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+    "sources": [
+      {
+        "name": "Server 1",
+        "type": "direct",
+        "url": "https://www.w3schools.com/html/mov_bbb.mp4"
+      },
+      {
+        "name": "YouTube",
+        "type": "embed",
+        "url": "https://www.youtube.com/embed/aqz-KE-bpKQ"
+      }
+    ]
   }
 }
