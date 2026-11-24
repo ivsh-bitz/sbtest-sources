@@ -10,12 +10,12 @@
           {
             "label": "English",
             "language": "en",
-            "url": "HTTPS_WEBVTT_URL"
+            "url": "https://raw.githubusercontent.com/ivsh-bitz/sbtest-sources/main/subtitles/bbb-en.vtt"
           },
           {
             "label": "Filipino",
             "language": "fil",
-            "url": "HTTPS_WEBVTT_URL"
+            "url": "https://raw.githubusercontent.com/ivsh-bitz/sbtest-sources/main/subtitles/bbb-fil.vtt"
           }
         ]
       },
