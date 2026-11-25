@@ -10,3 +10,29 @@
     }
   }
 }
+{
+  "33050": {
+    "1": {
+      "1": {
+        "sources": [
+          {
+            "name": "Direct Test - Big Buck Bunny",
+            "type": "direct",
+            "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "subtitles": []
+          }
+        ]
+      },
+      "2": {
+        "sources": [
+          {
+            "name": "Direct Test - Sintel",
+            "type": "direct",
+            "url": "https://storage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4",
+            "subtitles": []
+          }
+        ]
+      }
+    }
+  }
+}
