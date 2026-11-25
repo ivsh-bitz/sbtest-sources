@@ -31,6 +31,21 @@
           }
         ]
       }
+      "3": {"sources": [
+  {
+    "name": "Failover Test - Broken",
+    "type": "direct",
+    "url": "https://example.com/nonexistent-video.mp4",
+    "subtitles": []
+  },
+  {
+    "name": "Failover Test - Working",
+    "type": "direct",
+    "url": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "subtitles": []
+  }
+]
     }
   }
+}
 }
